@@ -1,6 +1,8 @@
-# Leaflet
+# Leaflet - Desafio Mobile para GS3 Tecnologia
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.1.
+Projeto gerado em [Angular CLI](https://github.com/angular/angular-cli) version 16.2.1.
+
+Usando [Ionic V7](https://ionicframework.com/) e [Capacitor JS](https://capacitorjs.com/)
 
 ## Development server
 
@@ -25,3 +27,11 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Sync Capacitor
+
+`npx cap sync`
+
+## Capacitor Android Studio
+
+`npx cap open android`
